@@ -1,0 +1,10 @@
+= Miner
+
+Checkout from https://github.com/Iviom/miner.git
+
+or
+
+Download from https://github.com/Iviom/miner/archive/master.zip, unzip and run:
+
+play
+
